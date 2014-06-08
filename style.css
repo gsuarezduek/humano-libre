@@ -17,6 +17,7 @@ h1 {
   margin:50px 0 15px;
   text-align:center;
   color:#212121;
+  font-family: cursive;
 }
 h2 {
   font-size:14px;
@@ -63,4 +64,41 @@ html, body {
   border-radius: 3px;
   border: 1px solid;
   border-color: #E5E5E5 #D3D3D3 #B9C1C6;
+}
+.textin1{
+	position: absolute;
+font-size: 20px;
+background-color: rgba(11,111,211,0.5);
+color: white;
+width: 100%;
+text-align: center;
+padding-top: 20px;
+padding-bottom: 20px;
+bottom: 0%;
+font-family: fantasy;
+}
+.textin2{
+	position: absolute;
+font-size: 20px;
+background-color: rgba(11,111,211,0.5);
+color: white;
+width: 100%;
+text-align: center;
+padding-top: 20px;
+padding-bottom: 20px;
+font-family: fantasy;
+
+}
+.textin3{
+	position: absolute;
+font-size: 20px;
+background-color: rgba(11,111,211,0.5);
+color: white;
+width: 100%;
+text-align: center;
+padding-top: 20px;
+padding-bottom: 20px;
+bottom: 50%;
+font-family: fantasy;
+
 }
